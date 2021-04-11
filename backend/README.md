@@ -97,7 +97,7 @@ Backend para funcionamento de um cadastro de empresas em node js utilizando.
 ```js
 // Request(Body):
 {
-	"page": 1
+  "page": "1",
 }
 // Response: StatusCode: 200 (OK)
 {
