@@ -1,4 +1,4 @@
-# Calculadora React JS
+# Empresas App React JS
 > Frontend do projeto calculadora.
 
 
