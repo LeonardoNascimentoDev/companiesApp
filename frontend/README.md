@@ -3,5 +3,4 @@
 
 
 ## Layout
-
-![image](https://user-images.githubusercontent.com/50468893/114321504-770bf400-9af1-11eb-84e3-173dd39166c2.png)
+![image](https://user-images.githubusercontent.com/50468893/114321529-9d319400-9af1-11eb-88bb-cc6f03ec1338.png)
