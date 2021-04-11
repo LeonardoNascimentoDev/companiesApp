@@ -1,17 +1,14 @@
-Empresas App
-Projeto de cadastro de empresas, com backend e frontend.
+# Empresas App
 
+Projeto de cadastro de empresas, com a backend e frontend.
 
-🚀 Tecnologias
+### 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+ - Node.js
+ - React
 
-
-Node.js
-React
-
-🎨 Frontend
+### 🎨 Frontend
 Para ver informações sobre o frontend ver README da pasta 📁frontend
 
-
-🚧 Backend
+### 🚧 Backend
 Para ver a documentação e outras informações sobre o backend ver README da pasta 📁backend
