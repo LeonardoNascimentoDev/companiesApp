@@ -47,15 +47,6 @@ exports.store = async (request, response, next) => {
 	}
 };
 
-exports.show = async (request, response, next) => {
-	try {
-		const empresa = await Empresa.findOne({ nome: request.params.id });
-		return response.status(200).json(empresa);
-	} catch (erro) {
-		return response.status(500).json({ Erro: `Erro ao buscar empresa!: ${erro}.` });
-	}
-};
-
 exports.search = async (request, response, next) => {
 	try {
 		const empresa = await Empresa.findOne({ nome: request.params.search });

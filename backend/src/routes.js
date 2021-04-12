@@ -8,7 +8,6 @@ const routes = Router();
 routes.post('/login', AuthController.logar);
 routes.get('/empresas', EmpresaController.index);
 routes.post('/empresas', EmpresaController.store);
-routes.get('/empresa/:id', EmpresaController.show);
 routes.delete('/empresa/:id', EmpresaController.delete);
 routes.put('/empresa/:id', EmpresaController.update);
 routes.post('/empresas/paginacao', EmpresaController.paginacao);
