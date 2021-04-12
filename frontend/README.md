@@ -1,5 +1,5 @@
 # Empresas App React JS
-> Frontend do projeto calculadora.
+> Frontend do projeto empresas app.
 
 
 ## Layout
